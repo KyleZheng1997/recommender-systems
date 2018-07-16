@@ -1,5 +1,5 @@
-#Neural NetWork with Embedding Layer
-##Dependency
+# Neural NetWork with Embedding Layer
+## Dependency
 * Numpy
 * Pandas
 * Pytorch
@@ -13,7 +13,7 @@ embedding_result contains all experiment results with different hidden layers an
 ```
 python3 Embedding.py
 ```
-#Matrix Factorization
+# Matrix Factorization
 
 ## Files
 new_regression.py
@@ -24,7 +24,7 @@ model folder contains all results files used in report.
 ```
 python3 new_regression.py
 ```
-#Improved with SVD++
+# Improved with SVD++
 
 ## Files
 svd++.py
